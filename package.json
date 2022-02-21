@@ -1,0 +1,25 @@
+{
+  "name": "platzi-punks",
+  "version": "1.0.0",
+  "description": "NFTs Market Place ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edward2mv/AvatarPunks.git"
+  },
+  "keywords": [
+    "Web3.js",
+    "React.js",
+    "Solidity",
+    "IPFS"
+  ],
+  "author": "edme-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edward2mv/AvatarPunks/issues"
+  },
+  "homepage": "https://github.com/edward2mv/AvatarPunks#readme"
+}
