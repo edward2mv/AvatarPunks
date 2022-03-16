@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/edward2mv/AvatarPunks.git"
-  },
+  "repository": "git+https://github.com/edward2mv/AvatarPunks.git",
   "keywords": [
     "Web3.js",
     "React.js",
@@ -21,5 +18,17 @@
   "bugs": {
     "url": "https://github.com/edward2mv/AvatarPunks/issues"
   },
-  "homepage": "https://github.com/edward2mv/AvatarPunks#readme"
+  "homepage": "https://github.com/edward2mv/AvatarPunks#readme",
+  "dependencies": {
+    "yarn": "^1.22.17"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.2",
+    "chai": "^4.3.6",
+    "dotenv": "^16.0.0",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.8.4"
+  }
 }
